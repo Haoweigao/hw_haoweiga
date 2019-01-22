@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -g3 -O0   CMakeFiles/hw1_teams.dir/home/cs104/hw_haoweiga/teams.cpp.o  -o hw1_teams 

@@ -1,0 +1,522 @@
+Start testing: Jan 21 14:58 PST
+----------------------------------------------------------
+1/17 Testing: WordSearch.TwoByOne_Right
+1/17 Test: WordSearch.TwoByOne_Right
+Command: "/home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/wordsearch_tests" "--gtest_filter=WordSearch.TwoByOne_Right"
+Directory: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests
+"WordSearch.TwoByOne_Right" start time: Jan 21 14:58 PST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = WordSearch.TwoByOne_Right
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from WordSearch
+[ RUN      ] WordSearch.TwoByOne_Right
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/hw1_wordsearch /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/TwoByOne_Rightward/input.txt no
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/TwoByOne_Rightward/output.txt
+Warning: unrecognized program output: no[       OK ] WordSearch.TwoByOne_Right (443 ms)
+[----------] 1 test from WordSearch (443 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (443 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.44 sec
+----------------------------------------------------------
+Test Passed.
+"WordSearch.TwoByOne_Right" end time: Jan 21 14:58 PST
+"WordSearch.TwoByOne_Right" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/17 Testing: WordSearch.TwoByOne_Left
+2/17 Test: WordSearch.TwoByOne_Left
+Command: "/home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/wordsearch_tests" "--gtest_filter=WordSearch.TwoByOne_Left"
+Directory: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests
+"WordSearch.TwoByOne_Left" start time: Jan 21 14:58 PST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = WordSearch.TwoByOne_Left
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from WordSearch
+[ RUN      ] WordSearch.TwoByOne_Left
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/hw1_wordsearch /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/TwoByOne_Leftward/input.txt on
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/TwoByOne_Leftward/output.txt
+Warning: unrecognized program output: no[       OK ] WordSearch.TwoByOne_Left (405 ms)
+[----------] 1 test from WordSearch (405 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (405 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"WordSearch.TwoByOne_Left" end time: Jan 21 14:58 PST
+"WordSearch.TwoByOne_Left" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/17 Testing: WordSearch.TwoByTwo_No
+3/17 Test: WordSearch.TwoByTwo_No
+Command: "/home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/wordsearch_tests" "--gtest_filter=WordSearch.TwoByTwo_No"
+Directory: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests
+"WordSearch.TwoByTwo_No" start time: Jan 21 14:58 PST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = WordSearch.TwoByTwo_No
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from WordSearch
+[ RUN      ] WordSearch.TwoByTwo_No
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/hw1_wordsearch /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/TwoByTwo_No/input.txt no
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/TwoByTwo_No/output.txt
+Warning: unrecognized program output: noWarning: unrecognized program output: on[       OK ] WordSearch.TwoByTwo_No (400 ms)
+[----------] 1 test from WordSearch (400 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (400 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"WordSearch.TwoByTwo_No" end time: Jan 21 14:58 PST
+"WordSearch.TwoByTwo_No" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/17 Testing: WordSearch.TwoByTwo_On
+4/17 Test: WordSearch.TwoByTwo_On
+Command: "/home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/wordsearch_tests" "--gtest_filter=WordSearch.TwoByTwo_On"
+Directory: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests
+"WordSearch.TwoByTwo_On" start time: Jan 21 14:58 PST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = WordSearch.TwoByTwo_On
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from WordSearch
+[ RUN      ] WordSearch.TwoByTwo_On
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/hw1_wordsearch /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/TwoByTwo_On/input.txt on
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/TwoByTwo_On/output.txt
+Warning: unrecognized program output: noWarning: unrecognized program output: on[       OK ] WordSearch.TwoByTwo_On (392 ms)
+[----------] 1 test from WordSearch (392 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (392 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"WordSearch.TwoByTwo_On" end time: Jan 21 14:58 PST
+"WordSearch.TwoByTwo_On" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/17 Testing: WordSearch.MediumGrid_Basin
+5/17 Test: WordSearch.MediumGrid_Basin
+Command: "/home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/wordsearch_tests" "--gtest_filter=WordSearch.MediumGrid_Basin"
+Directory: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests
+"WordSearch.MediumGrid_Basin" start time: Jan 21 14:58 PST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = WordSearch.MediumGrid_Basin
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from WordSearch
+[ RUN      ] WordSearch.MediumGrid_Basin
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/hw1_wordsearch /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/MediumGrid_Basin/input.txt basin
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/MediumGrid_Basin/output.txt
+Warning: unrecognized program output: edctwpksqxqtluiWarning: unrecognized program output: cxthuowbqbemgepWarning: unrecognized program output: uyuqrhrousvllahWarning: unrecognized program output: zezbbdbrjzoncbqWarning: unrecognized program output: ptqvemxyoomnnexWarning: unrecognized program output: pizzlroxcbelrldWarning: unrecognized program output: unsjlbasinruaupWarning: unrecognized program output: mcvxrzbnehukhbnWarning: unrecognized program output: hrfvbilktncsuefWarning: unrecognized program output: seibbohlwapsnyeWarning: unrecognized program output: gadanpxipoghnxnWarning: unrecognized program output: isdwzdentsxxooiWarning: unrecognized program output: detkflubqvzzpndWarning: unrecognized program output: dsyidhlojtmilkeWarning: unrecognized program output: ycfyeobevhygpdeWarning: unrecognized program output: -1010[       OK ] WordSearch.MediumGrid_Basin (402 ms)
+[----------] 1 test from WordSearch (402 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (402 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"WordSearch.MediumGrid_Basin" end time: Jan 21 14:58 PST
+"WordSearch.MediumGrid_Basin" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/17 Testing: WordSearch.MediumGrid_Giddy
+6/17 Test: WordSearch.MediumGrid_Giddy
+Command: "/home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/wordsearch_tests" "--gtest_filter=WordSearch.MediumGrid_Giddy"
+Directory: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests
+"WordSearch.MediumGrid_Giddy" start time: Jan 21 14:58 PST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = WordSearch.MediumGrid_Giddy
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from WordSearch
+[ RUN      ] WordSearch.MediumGrid_Giddy
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/hw1_wordsearch /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/MediumGrid_Giddy/input.txt giddy
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/MediumGrid_Giddy/output.txt
+Warning: unrecognized program output: edctwpksqxqtluiWarning: unrecognized program output: cxthuowbqbemgepWarning: unrecognized program output: uyuqrhrousvllahWarning: unrecognized program output: zezbbdbrjzoncbqWarning: unrecognized program output: ptqvemxyoomnnexWarning: unrecognized program output: pizzlroxcbelrldWarning: unrecognized program output: unsjlbasinruaupWarning: unrecognized program output: mcvxrzbnehukhbnWarning: unrecognized program output: hrfvbilktncsuefWarning: unrecognized program output: seibbohlwapsnyeWarning: unrecognized program output: gadanpxipoghnxnWarning: unrecognized program output: isdwzdentsxxooiWarning: unrecognized program output: detkflubqvzzpndWarning: unrecognized program output: dsyidhlojtmilkeWarning: unrecognized program output: ycfyeobevhygpdeWarning: unrecognized program output: -10[       OK ] WordSearch.MediumGrid_Giddy (404 ms)
+[----------] 1 test from WordSearch (404 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (404 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"WordSearch.MediumGrid_Giddy" end time: Jan 21 14:58 PST
+"WordSearch.MediumGrid_Giddy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/17 Testing: WordSearch.MediumGrid_Hobbies
+7/17 Test: WordSearch.MediumGrid_Hobbies
+Command: "/home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/wordsearch_tests" "--gtest_filter=WordSearch.MediumGrid_Hobbies"
+Directory: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests
+"WordSearch.MediumGrid_Hobbies" start time: Jan 21 14:58 PST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = WordSearch.MediumGrid_Hobbies
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from WordSearch
+[ RUN      ] WordSearch.MediumGrid_Hobbies
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/hw1_wordsearch /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/MediumGrid_Hobbies/input.txt hobbies
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/MediumGrid_Hobbies/output.txt
+Warning: unrecognized program output: edctwpksqxqtluiWarning: unrecognized program output: cxthuowbqbemgepWarning: unrecognized program output: uyuqrhrousvllahWarning: unrecognized program output: zezbbdbrjzoncbqWarning: unrecognized program output: ptqvemxyoomnnexWarning: unrecognized program output: pizzlroxcbelrldWarning: unrecognized program output: unsjlbasinruaupWarning: unrecognized program output: mcvxrzbnehukhbnWarning: unrecognized program output: hrfvbilktncsuefWarning: unrecognized program output: seibbohlwapsnyeWarning: unrecognized program output: gadanpxipoghnxnWarning: unrecognized program output: isdwzdentsxxooiWarning: unrecognized program output: detkflubqvzzpndWarning: unrecognized program output: dsyidhlojtmilkeWarning: unrecognized program output: ycfyeobevhygpdeWarning: unrecognized program output: 10[       OK ] WordSearch.MediumGrid_Hobbies (398 ms)
+[----------] 1 test from WordSearch (398 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (398 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"WordSearch.MediumGrid_Hobbies" end time: Jan 21 14:58 PST
+"WordSearch.MediumGrid_Hobbies" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/17 Testing: WordSearch.MediumGrid_Remove
+8/17 Test: WordSearch.MediumGrid_Remove
+Command: "/home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/wordsearch_tests" "--gtest_filter=WordSearch.MediumGrid_Remove"
+Directory: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests
+"WordSearch.MediumGrid_Remove" start time: Jan 21 14:58 PST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = WordSearch.MediumGrid_Remove
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from WordSearch
+[ RUN      ] WordSearch.MediumGrid_Remove
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/hw1_wordsearch /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/MediumGrid_Remove/input.txt remove
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/MediumGrid_Remove/output.txt
+Warning: unrecognized program output: edctwpksqxqtluiWarning: unrecognized program output: cxthuowbqbemgepWarning: unrecognized program output: uyuqrhrousvllahWarning: unrecognized program output: zezbbdbrjzoncbqWarning: unrecognized program output: ptqvemxyoomnnexWarning: unrecognized program output: pizzlroxcbelrldWarning: unrecognized program output: unsjlbasinruaupWarning: unrecognized program output: mcvxrzbnehukhbnWarning: unrecognized program output: hrfvbilktncsuefWarning: unrecognized program output: seibbohlwapsnyeWarning: unrecognized program output: gadanpxipoghnxnWarning: unrecognized program output: isdwzdentsxxooiWarning: unrecognized program output: detkflubqvzzpndWarning: unrecognized program output: dsyidhlojtmilkeWarning: unrecognized program output: ycfyeobevhygpdeWarning: unrecognized program output: 10[       OK ] WordSearch.MediumGrid_Remove (400 ms)
+[----------] 1 test from WordSearch (400 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (400 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"WordSearch.MediumGrid_Remove" end time: Jan 21 14:58 PST
+"WordSearch.MediumGrid_Remove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/17 Testing: WordSearch.NotFound_SmallGrid
+9/17 Test: WordSearch.NotFound_SmallGrid
+Command: "/home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/wordsearch_tests" "--gtest_filter=WordSearch.NotFound_SmallGrid"
+Directory: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests
+"WordSearch.NotFound_SmallGrid" start time: Jan 21 14:58 PST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = WordSearch.NotFound_SmallGrid
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from WordSearch
+[ RUN      ] WordSearch.NotFound_SmallGrid
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/hw1_wordsearch /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/NotFound_SmallGrid/input.txt ye
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/NotFound_SmallGrid/output.txt
+Warning: unrecognized program output: noWarning: unrecognized program output: on[       OK ] WordSearch.NotFound_SmallGrid (409 ms)
+[----------] 1 test from WordSearch (409 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (409 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"WordSearch.NotFound_SmallGrid" end time: Jan 21 14:58 PST
+"WordSearch.NotFound_SmallGrid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/17 Testing: WordSearch.NotFound_FirstLetterFound
+10/17 Test: WordSearch.NotFound_FirstLetterFound
+Command: "/home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/wordsearch_tests" "--gtest_filter=WordSearch.NotFound_FirstLetterFound"
+Directory: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests
+"WordSearch.NotFound_FirstLetterFound" start time: Jan 21 14:58 PST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = WordSearch.NotFound_FirstLetterFound
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from WordSearch
+[ RUN      ] WordSearch.NotFound_FirstLetterFound
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/hw1_wordsearch /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/NotFound_FirstLetterFound/input.txt ne
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/wordsearch_tests/testFiles/NotFound_FirstLetterFound/output.txt
+Warning: unrecognized program output: noWarning: unrecognized program output: on[       OK ] WordSearch.NotFound_FirstLetterFound (388 ms)
+[----------] 1 test from WordSearch (388 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (388 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"WordSearch.NotFound_FirstLetterFound" end time: Jan 21 14:58 PST
+"WordSearch.NotFound_FirstLetterFound" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/17 Testing: Teams.TwoPeople
+11/17 Test: Teams.TwoPeople
+Command: "/home/cs104/hw_haoweiga/hw1_check/teams_tests/teams_tests" "--gtest_filter=Teams.TwoPeople"
+Directory: /home/cs104/hw_haoweiga/hw1_check/teams_tests
+"Teams.TwoPeople" start time: Jan 21 14:58 PST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = Teams.TwoPeople
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Teams
+[ RUN      ] Teams.TwoPeople
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/teams_tests/hw1_teams /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/TwoPeople/input.txt
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/TwoPeople/output.txt
+[       OK ] Teams.TwoPeople (387 ms)
+[----------] 1 test from Teams (387 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (387 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"Teams.TwoPeople" end time: Jan 21 14:58 PST
+"Teams.TwoPeople" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/17 Testing: Teams.FourPeople
+12/17 Test: Teams.FourPeople
+Command: "/home/cs104/hw_haoweiga/hw1_check/teams_tests/teams_tests" "--gtest_filter=Teams.FourPeople"
+Directory: /home/cs104/hw_haoweiga/hw1_check/teams_tests
+"Teams.FourPeople" start time: Jan 21 14:58 PST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = Teams.FourPeople
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Teams
+[ RUN      ] Teams.FourPeople
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/teams_tests/hw1_teams /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/FourPeople/input.txt
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/FourPeople/output.txt
+[       OK ] Teams.FourPeople (390 ms)
+[----------] 1 test from Teams (390 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (390 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"Teams.FourPeople" end time: Jan 21 14:58 PST
+"Teams.FourPeople" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/17 Testing: Teams.EightPeople
+13/17 Test: Teams.EightPeople
+Command: "/home/cs104/hw_haoweiga/hw1_check/teams_tests/teams_tests" "--gtest_filter=Teams.EightPeople"
+Directory: /home/cs104/hw_haoweiga/hw1_check/teams_tests
+"Teams.EightPeople" start time: Jan 21 14:58 PST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = Teams.EightPeople
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Teams
+[ RUN      ] Teams.EightPeople
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/teams_tests/hw1_teams /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/EightPeople/input.txt
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/EightPeople/output.txt
+[       OK ] Teams.EightPeople (393 ms)
+[----------] 1 test from Teams (393 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (393 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"Teams.EightPeople" end time: Jan 21 14:58 PST
+"Teams.EightPeople" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/17 Testing: Teams.TwelvePeople
+14/17 Test: Teams.TwelvePeople
+Command: "/home/cs104/hw_haoweiga/hw1_check/teams_tests/teams_tests" "--gtest_filter=Teams.TwelvePeople"
+Directory: /home/cs104/hw_haoweiga/hw1_check/teams_tests
+"Teams.TwelvePeople" start time: Jan 21 14:58 PST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = Teams.TwelvePeople
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Teams
+[ RUN      ] Teams.TwelvePeople
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/teams_tests/hw1_teams /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/TwelvePeople/input.txt
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/TwelvePeople/output.txt
+[       OK ] Teams.TwelvePeople (471 ms)
+[----------] 1 test from Teams (471 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (471 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.47 sec
+----------------------------------------------------------
+Test Passed.
+"Teams.TwelvePeople" end time: Jan 21 14:58 PST
+"Teams.TwelvePeople" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/17 Testing: TeamsError.NoNames
+15/17 Test: TeamsError.NoNames
+Command: "/home/cs104/hw_haoweiga/hw1_check/teams_tests/teams_tests" "--gtest_filter=TeamsError.NoNames"
+Directory: /home/cs104/hw_haoweiga/hw1_check/teams_tests
+"TeamsError.NoNames" start time: Jan 21 14:58 PST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = TeamsError.NoNames
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from TeamsError
+[ RUN      ] TeamsError.NoNames
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/teams_tests/hw1_teams /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/NoNames/input.txt
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/NoNames/output.txt
+[       OK ] TeamsError.NoNames (381 ms)
+[----------] 1 test from TeamsError (381 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (381 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.38 sec
+----------------------------------------------------------
+Test Passed.
+"TeamsError.NoNames" end time: Jan 21 14:58 PST
+"TeamsError.NoNames" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/17 Testing: TeamsError.TooFewNames_Even
+16/17 Test: TeamsError.TooFewNames_Even
+Command: "/home/cs104/hw_haoweiga/hw1_check/teams_tests/teams_tests" "--gtest_filter=TeamsError.TooFewNames_Even"
+Directory: /home/cs104/hw_haoweiga/hw1_check/teams_tests
+"TeamsError.TooFewNames_Even" start time: Jan 21 14:58 PST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = TeamsError.TooFewNames_Even
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from TeamsError
+[ RUN      ] TeamsError.TooFewNames_Even
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/teams_tests/hw1_teams /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/TooFewNames_Even/input.txt
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/TooFewNames_Even/output.txt
+[       OK ] TeamsError.TooFewNames_Even (361 ms)
+[----------] 1 test from TeamsError (361 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (362 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.36 sec
+----------------------------------------------------------
+Test Passed.
+"TeamsError.TooFewNames_Even" end time: Jan 21 14:58 PST
+"TeamsError.TooFewNames_Even" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/17 Testing: TeamsStress.4x12Person
+17/17 Test: TeamsStress.4x12Person
+Command: "/home/cs104/hw_haoweiga/hw1_check/teams_tests/teams_tests" "--gtest_filter=TeamsStress.4x12Person"
+Directory: /home/cs104/hw_haoweiga/hw1_check/teams_tests
+"TeamsStress.4x12Person" start time: Jan 21 14:58 PST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = TeamsStress.4x12Person
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from TeamsStress
+[ RUN      ] TeamsStress.4x12Person
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/teams_tests/hw1_teams /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/10x5Person/input.txt
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/10x5Person/output.txt
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/teams_tests/hw1_teams /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/10x5Person/input.txt
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/10x5Person/output.txt
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/teams_tests/hw1_teams /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/10x5Person/input.txt
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/10x5Person/output.txt
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/hw_haoweiga/hw1_check/teams_tests/hw1_teams /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/10x5Person/input.txt
+Your program's STDOUT was written to: /home/cs104/hw_haoweiga/hw1_check/teams_tests/testFiles/10x5Person/output.txt
+[       OK ] TeamsStress.4x12Person (1818 ms)
+[----------] 1 test from TeamsStress (1818 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (1818 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.82 sec
+----------------------------------------------------------
+Test Passed.
+"TeamsStress.4x12Person" end time: Jan 21 14:58 PST
+"TeamsStress.4x12Person" time elapsed: 00:00:01
+----------------------------------------------------------
+
+End testing: Jan 21 14:58 PST

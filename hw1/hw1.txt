@@ -1,0 +1,23 @@
+Problem 1
+	Part a
+		Option 1 
+		Option 4 
+		Option 8
+	Part b
+		The recommended ways are
+			Emacs
+			Eclipse
+			Sublime
+			Microsoft Visual Studio
+	Part c
+		Option 4
+	Part d
+		Option 4
+Problem 2
+	Part a
+		Option 3
+	Part b
+		1: git add hw1q2b.cpp
+		2: git log
+	Part c
+		All three files will be part of the repository history

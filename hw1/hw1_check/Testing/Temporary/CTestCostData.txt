@@ -1,0 +1,18 @@
+WordSearch.TwoByOne_Right 1 0.444727
+WordSearch.TwoByOne_Left 1 0.405904
+WordSearch.TwoByTwo_No 1 0.401681
+WordSearch.TwoByTwo_On 1 0.392823
+WordSearch.MediumGrid_Basin 1 0.402967
+WordSearch.MediumGrid_Giddy 1 0.404455
+WordSearch.MediumGrid_Hobbies 1 0.399555
+WordSearch.MediumGrid_Remove 1 0.401178
+WordSearch.NotFound_SmallGrid 1 0.410039
+WordSearch.NotFound_FirstLetterFound 1 0.389455
+Teams.TwoPeople 1 0.387801
+Teams.FourPeople 1 0.391195
+Teams.EightPeople 1 0.394251
+Teams.TwelvePeople 1 0.471858
+TeamsError.NoNames 1 0.38262
+TeamsError.TooFewNames_Even 1 0.362826
+TeamsStress.4x12Person 1 1.81976
+---

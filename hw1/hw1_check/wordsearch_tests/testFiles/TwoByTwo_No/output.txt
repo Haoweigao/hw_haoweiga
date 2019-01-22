@@ -1,0 +1,6 @@
+no
+on
+no starts at (row,col) = (0,0) and proceeds down.
+no starts at (row,col) = (0,0) and proceeds right.
+no starts at (row,col) = (1,1) and proceeds up.
+no starts at (row,col) = (1,1) and proceeds left.

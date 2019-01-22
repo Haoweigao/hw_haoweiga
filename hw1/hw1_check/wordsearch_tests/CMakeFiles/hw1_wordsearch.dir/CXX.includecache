@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cs104/hw_haoweiga/wsearch.cpp
+iostream
+-
+iomanip
+-
+string
+-
+fstream
+-
+sstream
+-
+vector
+-
+

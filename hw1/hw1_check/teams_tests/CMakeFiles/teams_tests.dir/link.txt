@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -g3 -O0   CMakeFiles/teams_tests.dir/teams_tests.cpp.o CMakeFiles/teams_tests.dir/teams_checker.cpp.o  -o teams_tests ../testing_utils/libtesting_utils.a /usr/lib/libgtest_main.a /usr/lib/libgtest.a -lpthread ../testing_utils/kwsys/libkwsys.a ../testing_utils/libperf/libperf.a 

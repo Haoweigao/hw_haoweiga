@@ -1,0 +1,82 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/kwsys/ProcessUNIX.c"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/kwsys/EncodingC.c"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/kwsys/System.c"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/generated_headers/kwsys/Configure.h"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/generated_headers/kwsys/SharedForward.h"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/generated_headers/kwsys/Process.h"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/generated_headers/kwsys/Encoding.h"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/generated_headers/kwsys/System.h"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/kwsys/Directory.cxx"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/generated_headers/kwsys/Directory.hxx"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/kwsys/EncodingCXX.cxx"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/generated_headers/kwsys/Encoding.hxx"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/kwsys/RegularExpression.cxx"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/generated_headers/kwsys/RegularExpression.hxx"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/kwsys/SystemTools.cxx"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/generated_headers/kwsys/SystemTools.hxx"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/kwsys/FStream.cxx"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/generated_headers/kwsys/FStream.hxx"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/generated_headers/kwsys/Configure.hxx"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/generated_headers/kwsys/String.hxx"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/generated_headers/kwsys/hashtable.hxx"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/generated_headers/kwsys/hash_fun.hxx"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/generated_headers/kwsys/hash_map.hxx"
+		},
+		{
+			"file" : "/home/cs104/hw_haoweiga/hw1_check/testing_utils/generated_headers/kwsys/hash_set.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [],
+		"name" : "kwsys"
+	}
+}

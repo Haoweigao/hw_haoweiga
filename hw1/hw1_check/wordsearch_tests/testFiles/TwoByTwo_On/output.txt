@@ -1,0 +1,6 @@
+no
+on
+on starts at (row,col) = (0,1) and proceeds left.
+on starts at (row,col) = (0,1) and proceeds down.
+on starts at (row,col) = (1,0) and proceeds up.
+on starts at (row,col) = (1,0) and proceeds right.

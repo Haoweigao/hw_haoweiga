@@ -1,0 +1,280 @@
+
+Combination 1
+T1: Jane Ned Ed Cain 
+T2: Fred Frieda Lisa James 
+
+Combination 2
+T1: James Ned Ed Cain 
+T2: Fred Frieda Lisa Jane 
+
+Combination 3
+T1: James Jane Ed Cain 
+T2: Fred Frieda Lisa Ned 
+
+Combination 4
+T1: James Jane Ned Cain 
+T2: Fred Frieda Lisa Ed 
+
+Combination 5
+T1: James Jane Ned Ed 
+T2: Fred Frieda Lisa Cain 
+
+Combination 6
+T1: Lisa Ned Ed Cain 
+T2: Fred Frieda James Jane 
+
+Combination 7
+T1: Lisa Jane Ed Cain 
+T2: Fred Frieda James Ned 
+
+Combination 8
+T1: Lisa Jane Ned Cain 
+T2: Fred Frieda James Ed 
+
+Combination 9
+T1: Lisa Jane Ned Ed 
+T2: Fred Frieda James Cain 
+
+Combination 10
+T1: Lisa James Ed Cain 
+T2: Fred Frieda Jane Ned 
+
+Combination 11
+T1: Lisa James Ned Cain 
+T2: Fred Frieda Jane Ed 
+
+Combination 12
+T1: Lisa James Ned Ed 
+T2: Fred Frieda Jane Cain 
+
+Combination 13
+T1: Lisa James Jane Cain 
+T2: Fred Frieda Ned Ed 
+
+Combination 14
+T1: Lisa James Jane Ed 
+T2: Fred Frieda Ned Cain 
+
+Combination 15
+T1: Lisa James Jane Ned 
+T2: Fred Frieda Ed Cain 
+
+Combination 16
+T1: Frieda Ned Ed Cain 
+T2: Fred Lisa James Jane 
+
+Combination 17
+T1: Frieda Jane Ed Cain 
+T2: Fred Lisa James Ned 
+
+Combination 18
+T1: Frieda Jane Ned Cain 
+T2: Fred Lisa James Ed 
+
+Combination 19
+T1: Frieda Jane Ned Ed 
+T2: Fred Lisa James Cain 
+
+Combination 20
+T1: Frieda James Ed Cain 
+T2: Fred Lisa Jane Ned 
+
+Combination 21
+T1: Frieda James Ned Cain 
+T2: Fred Lisa Jane Ed 
+
+Combination 22
+T1: Frieda James Ned Ed 
+T2: Fred Lisa Jane Cain 
+
+Combination 23
+T1: Frieda James Jane Cain 
+T2: Fred Lisa Ned Ed 
+
+Combination 24
+T1: Frieda James Jane Ed 
+T2: Fred Lisa Ned Cain 
+
+Combination 25
+T1: Frieda James Jane Ned 
+T2: Fred Lisa Ed Cain 
+
+Combination 26
+T1: Frieda Lisa Ed Cain 
+T2: Fred James Jane Ned 
+
+Combination 27
+T1: Frieda Lisa Ned Cain 
+T2: Fred James Jane Ed 
+
+Combination 28
+T1: Frieda Lisa Ned Ed 
+T2: Fred James Jane Cain 
+
+Combination 29
+T1: Frieda Lisa Jane Cain 
+T2: Fred James Ned Ed 
+
+Combination 30
+T1: Frieda Lisa Jane Ed 
+T2: Fred James Ned Cain 
+
+Combination 31
+T1: Frieda Lisa Jane Ned 
+T2: Fred James Ed Cain 
+
+Combination 32
+T1: Frieda Lisa James Cain 
+T2: Fred Jane Ned Ed 
+
+Combination 33
+T1: Frieda Lisa James Ed 
+T2: Fred Jane Ned Cain 
+
+Combination 34
+T1: Frieda Lisa James Ned 
+T2: Fred Jane Ed Cain 
+
+Combination 35
+T1: Frieda Lisa James Jane 
+T2: Fred Ned Ed Cain 
+
+Combination 36
+T1: Fred Ned Ed Cain 
+T2: Frieda Lisa James Jane 
+
+Combination 37
+T1: Fred Jane Ed Cain 
+T2: Frieda Lisa James Ned 
+
+Combination 38
+T1: Fred Jane Ned Cain 
+T2: Frieda Lisa James Ed 
+
+Combination 39
+T1: Fred Jane Ned Ed 
+T2: Frieda Lisa James Cain 
+
+Combination 40
+T1: Fred James Ed Cain 
+T2: Frieda Lisa Jane Ned 
+
+Combination 41
+T1: Fred James Ned Cain 
+T2: Frieda Lisa Jane Ed 
+
+Combination 42
+T1: Fred James Ned Ed 
+T2: Frieda Lisa Jane Cain 
+
+Combination 43
+T1: Fred James Jane Cain 
+T2: Frieda Lisa Ned Ed 
+
+Combination 44
+T1: Fred James Jane Ed 
+T2: Frieda Lisa Ned Cain 
+
+Combination 45
+T1: Fred James Jane Ned 
+T2: Frieda Lisa Ed Cain 
+
+Combination 46
+T1: Fred Lisa Ed Cain 
+T2: Frieda James Jane Ned 
+
+Combination 47
+T1: Fred Lisa Ned Cain 
+T2: Frieda James Jane Ed 
+
+Combination 48
+T1: Fred Lisa Ned Ed 
+T2: Frieda James Jane Cain 
+
+Combination 49
+T1: Fred Lisa Jane Cain 
+T2: Frieda James Ned Ed 
+
+Combination 50
+T1: Fred Lisa Jane Ed 
+T2: Frieda James Ned Cain 
+
+Combination 51
+T1: Fred Lisa Jane Ned 
+T2: Frieda James Ed Cain 
+
+Combination 52
+T1: Fred Lisa James Cain 
+T2: Frieda Jane Ned Ed 
+
+Combination 53
+T1: Fred Lisa James Ed 
+T2: Frieda Jane Ned Cain 
+
+Combination 54
+T1: Fred Lisa James Ned 
+T2: Frieda Jane Ed Cain 
+
+Combination 55
+T1: Fred Lisa James Jane 
+T2: Frieda Ned Ed Cain 
+
+Combination 56
+T1: Fred Frieda Ed Cain 
+T2: Lisa James Jane Ned 
+
+Combination 57
+T1: Fred Frieda Ned Cain 
+T2: Lisa James Jane Ed 
+
+Combination 58
+T1: Fred Frieda Ned Ed 
+T2: Lisa James Jane Cain 
+
+Combination 59
+T1: Fred Frieda Jane Cain 
+T2: Lisa James Ned Ed 
+
+Combination 60
+T1: Fred Frieda Jane Ed 
+T2: Lisa James Ned Cain 
+
+Combination 61
+T1: Fred Frieda Jane Ned 
+T2: Lisa James Ed Cain 
+
+Combination 62
+T1: Fred Frieda James Cain 
+T2: Lisa Jane Ned Ed 
+
+Combination 63
+T1: Fred Frieda James Ed 
+T2: Lisa Jane Ned Cain 
+
+Combination 64
+T1: Fred Frieda James Ned 
+T2: Lisa Jane Ed Cain 
+
+Combination 65
+T1: Fred Frieda James Jane 
+T2: Lisa Ned Ed Cain 
+
+Combination 66
+T1: Fred Frieda Lisa Cain 
+T2: James Jane Ned Ed 
+
+Combination 67
+T1: Fred Frieda Lisa Ed 
+T2: James Jane Ned Cain 
+
+Combination 68
+T1: Fred Frieda Lisa Ned 
+T2: James Jane Ed Cain 
+
+Combination 69
+T1: Fred Frieda Lisa Jane 
+T2: James Ned Ed Cain 
+
+Combination 70
+T1: Fred Frieda Lisa James 
+T2: Jane Ned Ed Cain 

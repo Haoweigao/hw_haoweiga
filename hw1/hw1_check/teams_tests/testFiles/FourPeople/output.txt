@@ -1,0 +1,24 @@
+
+Combination 1
+T1: James Jane 
+T2: Fred Lisa 
+
+Combination 2
+T1: Lisa Jane 
+T2: Fred James 
+
+Combination 3
+T1: Lisa James 
+T2: Fred Jane 
+
+Combination 4
+T1: Fred Jane 
+T2: Lisa James 
+
+Combination 5
+T1: Fred James 
+T2: Lisa Jane 
+
+Combination 6
+T1: Fred Lisa 
+T2: James Jane 

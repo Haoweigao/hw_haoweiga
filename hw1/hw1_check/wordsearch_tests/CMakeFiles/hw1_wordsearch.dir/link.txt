@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -g3 -O0   CMakeFiles/hw1_wordsearch.dir/home/cs104/hw_haoweiga/wsearch.cpp.o  -o hw1_wordsearch 
